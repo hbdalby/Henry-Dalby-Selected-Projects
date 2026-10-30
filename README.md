@@ -18,7 +18,7 @@ This is an indicative comparison, not an investible recommendation. It shows whi
 
 **Files:** [Explore the Excel model](./Full%20Model%20-%20AI%20Economics%20is%20Energy%20Economics%20%282026%29.xlsx) | [Read the article](./AI%20Economics%20is%20Energy%20Economics%20%282026%29%20-%20full%20article.pdf)
 
-## benchmarkai
+## Signal vs Substance - benchmarkai (2026) publication
 
 I built benchmarkai after spending a month in Singapore asking companies how AI was changing their work. Almost everyone was experimenting with AI, but few could explain how those experiments connected to strategy or measurable business value.
 
